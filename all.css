@@ -1,0 +1,102 @@
+.content-l{
+    gap: 8px;
+}
+.c-img1{
+    max-width: 49%;
+}
+.h2{
+    font-size: 32px;
+}
+.price-now{
+    color: var(--green);
+    font-style: 20px;
+}
+.price-past{
+    color: var(--light-gray);
+    font-size: 14px;
+    text-decoration: line-through;
+}
+.product-intro{
+    color: var(--primary);
+    font-weight: 400;
+}
+.small-card{
+    gap: 8px;
+}
+.s-img{
+    width: 64px;
+    height: 64px;
+}
+.s-card-p{
+    color: var(--gray);
+}
+.size-button{
+    width: 160px;
+    height: 48px;
+    color: var(--primary);
+    background: #fff;
+    border-radius: 4px;
+    border: 1px solid var(--light-gray);
+}
+.size-button:hover{
+    border: 1px solid var(--gray);
+}
+.size-button:active{
+    border: 1px solid var(--primary);
+}
+.b-disabled{
+    color: var(--light-gray);
+    border: 1px solid var(--slash);
+}
+.rest{
+    font-size: 14px;
+    color: #d74f4f;
+    font-weight: 400;
+}
+.like-icon, .reserve-icon{
+    display: inline-block;
+    font-size: 18px;
+}
+.like-button, .reserve-button{
+    width: 48%;
+    padding: 12px;
+    color: var(--primary);
+    background: #fff;
+    border-radius: 4px;
+    border: 1px solid var(--primary);
+}
+.like-button:hover, .reserve-button:hover{
+    color: #fff;
+    background: #000;
+}
+.like-button:active{
+    color: var(--primary);
+    background: #fff;
+}
+.product-info{
+    color: var(--primary);
+}
+.p-info{
+    font-weight: 400;
+    color: var(--gray);
+}
+.bb-line{
+    border-bottom: 1px solid var(--slash);
+}
+.h4{
+    font-size: 24px;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+}
+.recommend-p-card{
+    margin-right: -12px;
+    margin-left: -12px;
+}
+.re-p-card{
+    display: block;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.re-p-card:hover{
+    opacity: 40%;
+}

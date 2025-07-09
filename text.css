@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+
+:root{
+    --primary: #212529;
+    --gray: #6c757d;
+    --light-gray: #adb5bd;
+    --light-gray2: #f8f9fa;
+    --slash: #dee2e6;
+    --green: #57a203;
+    --light-green: #e8f0c5;
+}
