@@ -64,7 +64,7 @@ img{
     width: 1296px;
     margin: 0 auto;}
 
-.h2, .h3, .h4, .h5, .h6{
+.h1, .h2, .h3, .h4, .h5, .h6{
     font-weight: 700;
     line-height: 1.2;
     color: var(--primary);
@@ -74,7 +74,7 @@ img{
     padding: 16px;
 }
 
-.h2{
+.h1, h2{
     font-size: 20px;
     text-decoration: none;
     padding: 8px 12px;
@@ -88,13 +88,13 @@ img{
     color: var(--primary);
 }
 .h-nav:hover{
-    font-size: 24px;
+    color: var(--hover);
 }
 .f-nav:hover{
-    font-size: 24px;
+    color: var(--hover);
 }
 .h-icon:hover{
-    font-size: 24px;
+    color: var(--hover);
 }
 .nav-light{
     color: var(--gray);
@@ -131,7 +131,7 @@ color: var(--slash);
     padding: 8px 0;
 }
 .menu-list:hover{
-    font-size: 24px;
+    color: var(--hover);
 }
 .main-product{
    margin-right: -12px;
