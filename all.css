@@ -27,6 +27,14 @@
     width: 64px;
     height: 64px;
 }
+.s-card:hover{
+    opacity: 40%;
+}
+.s-card:active{
+    .s-card-p{
+      color: red;
+    }
+}
 .s-card-p{
     color: var(--gray);
 }
